@@ -1,4 +1,3 @@
-![Desktop Hero Section](https://media.giphy.com/media/f3GAsGEB6vWMFk1s4n/giphy.gif)
 ![Mobile Hero Section](https://github.com/DarkoTrpevski/DesignerPhotographerPortfolio/blob/main/designerphotographerportfolio.gif)
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
